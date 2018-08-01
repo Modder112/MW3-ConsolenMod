@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\LetsProgrammed\LetsProgrammed\bin\Debug\LetsProgrammed.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LetsProgrammed\LetsProgrammed\bin\Debug\LetsProgrammed.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\LetsProgrammed\LetsProgrammed\bin\Debug\InfinityScript.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LetsProgrammed\LetsProgrammed\obj\Debug\LetsProgrammed.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\LetsProgrammed\LetsProgrammed\obj\Debug\LetsProgrammed.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LetsProgrammed\LetsProgrammed\obj\Debug\LetsProgrammed.pdb
